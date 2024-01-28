@@ -1,0 +1,258 @@
+[
+	{
+	   "id": 1,
+	   "image": "../images/황금올리브치킨.png",
+	   "name": "황금올리브치킨",
+	   "price": 20000,
+	   "spicy": 0,
+	   "brand": "BBQ"
+	},
+	{
+	   "id": 2,
+	   "image": "../images/크런치버터치킨.png",
+	   "name": "크런치버터치킨",
+	   "price": 24000,
+	   "spicy": 0,
+	   "brand": "BBQ"
+	},
+	{
+	   "id": 3,
+	   "image": "../images/자메이카소떡만나치킨.png",
+	   "name": "자메이카소떡만나 치킨",
+	   "price": 24000,
+	   "spicy": 2,
+	   "brand": "BBQ"
+	},
+	{
+	   "id": 4,
+	   "image": "../images/황금올리브양념치킨.png",
+	   "name": "황금올리브 양념치킨",
+	   "price": 21500,
+	   "spicy": 1,
+	   "brand": "BBQ"
+	},
+	{
+	   "id": 5,
+	   "image": "../images/자메이카통다리구이.jpg",
+	   "name": "자메이카 통다리구이",
+	   "price": 21500,
+	   "spicy": 2,
+	   "brand": "BBQ"
+	},
+	{
+	   "id": 6,
+	   "image": "../images/골드킹.png",
+	   "name": "골드킹",
+	   "price": 17000,
+	   "spicy": 0,
+	   "brand": "BHC"
+	},
+	{
+	   "id": 7,
+	   "image": "../images/뿌링클.jpg",
+	   "name": "뿌링클",
+	   "price": 18000,
+	   "spicy": 0,
+	   "brand": "BHC"
+	},
+	{
+	   "id": 8,
+	   "image": "../images/맛초킹.jpg",
+	   "name": "맛초킹",
+	   "price": 18000,
+	   "spicy": 2,
+	   "brand": "BHC"
+	},
+	{
+	   "id": 9,
+	   "image": "../images/레드킹.jpg",
+	   "name": "레드킹",
+	   "price": 19000,
+	   "spicy": 0,
+	   "brand": "BHC"
+	},
+	{
+	   "id": 10,
+	   "image": "../images/하바네로포테킹.png",
+	   "name": "하바네로 포테킹",
+	   "price": 20000,
+	   "spicy": 0,
+	   "brand": "BHC"
+	},
+	{
+	   "id": 11,
+	   "image": "../images/맵소킹.png",
+	   "name": "맵소킹",
+	   "price": 18000,
+	   "spicy": 3,
+	   "brand": "BHC"
+	},
+	{
+	   "id": 12,
+	   "image": "../images/블랙시크릿.png",
+	   "name": "블랙시크릿",
+	   "price": 20000,
+	   "spicy": 2,
+	   "brand": "교촌"
+	},      
+	{
+	   "id": 13,
+	   "image": "../images/허니오리지날.png",
+	   "name": "허니오리지날",
+	   "price": 16000,
+	   "spicy": 0,
+	   "brand": "교촌"
+	},      
+	{
+	   "id": 14,
+	   "image": "../images/레드오리지날.png",
+	   "name": "레드오리지날",
+	   "price": 17000,
+	   "spicy": 2,
+	   "brand": "교촌"
+	},      
+	{
+	   "id": 15,
+	   "image": "../images/교촌오리지날.png",
+	   "name": "교촌오리지날",
+	   "price": 16000,
+	   "spicy": 0,
+	   "brand": "교촌"
+	},      
+	{
+	   "id": 16,
+	   "image": "../images/남해마늘바사삭.png",
+	   "name": "남해마늘바사삭",
+	   "price": 19000,
+	   "spicy": 0,
+	   "brand": "굽네"
+	},   
+	{
+	   "id": 17,
+	   "image": "../images/오븐바사삭.png",
+	   "name": "오븐바사삭",
+	   "price": 17000,
+	   "spicy": 0,
+	   "brand": "굽네"
+	},   
+	{
+	   "id": 18,
+	   "image": "../images/오리지널.png",
+	   "name": "오리지널",
+	   "price": 16000,
+	   "spicy": 0,
+	   "brand": "굽네"
+	},   
+	{
+	   "id": 19,
+	   "image": "../images/고추바사삭.png",
+	   "name": "고추바사삭",
+	   "price": 18000,
+	   "spicy": 2,
+	   "brand": "굽네"
+	},   
+	{
+	   "id": 20,
+	   "image": "../images/불금치킨.png",
+	   "name": "불금치킨",
+	   "price": 18000,
+	   "spicy": 3,
+	   "brand": "굽네"
+	},   
+	{
+	   "id": 21,
+	   "image": "../images/치즈바사삭.png",
+	   "name": "치즈바사삭",
+	   "price": 18000,
+	   "spicy": 0,
+	   "brand": "굽네"
+	},      
+	{
+	   "id": 22,
+	   "image": "../images/갈비천왕.png",
+	   "name": "갈비천왕",
+	   "price": 18000,
+	   "spicy": 0,
+	   "brand": "굽네"
+	},      
+	{
+	   "id": 23,
+	   "image": "../images/볼케이노.png",
+	   "name": "볼케이노",
+	   "price": 18000,
+	   "spicy": 3,
+	   "brand": "굽네"
+	},      
+	{
+	   "id": 24,
+	   "image": "../images/양념히어로.png",
+	   "name": "양념히어로",
+	   "price": 18000,
+	   "spicy": 1,
+	   "brand": "굽네"
+	},   
+	{
+	   "id": 25,
+	   "image": "../images/콘소메이징.png",
+	   "name": "콘소메이징",
+	   "price": 18900,
+	   "spicy": 0,
+	   "brand": "푸라닭"
+	},   
+	{
+	   "id": 26,
+	   "image": "../images/푸라닭치킨.png",
+	   "name": "푸라닭 치킨",
+	   "price": 16900,
+	   "spicy": 0,
+	   "brand": "푸라닭"
+	},   
+	{
+	   "id": 27,
+	   "image": "../images/달콤양념치킨.png",
+	   "name": "달콤양념 치킨",
+	   "price": 18900,
+	   "spicy": 1,
+	   "brand": "푸라닭"
+	},   
+	{
+	   "id": 28,
+	   "image": "../images/고추마요치킨.png",
+	   "name": "고추마요 치킨",
+	   "price": 18900,
+	   "spicy": 1,
+	   "brand": "푸라닭"
+	},   
+	{
+	   "id": 29,
+	   "image": "../images/블랙알리오.png",
+	   "name": "블랙알리오",
+	   "price": 18900,
+	   "spicy": 0,
+	   "brand": "푸라닭"
+	},   
+	{
+	   "id": 30,
+	   "image": "../images/악마치킨.png",
+	   "name": "악마 치킨",
+	   "price": 18900,
+	   "spicy": 3,
+	   "brand": "푸라닭"
+	},
+	{
+	   "id": 31,
+	   "image": "../images/제너럴핫치킨.png",
+	   "name": "제너럴 핫 치킨",
+	   "price": 18900,
+	   "spicy": 2,
+	   "brand": "푸라닭"
+	},
+	{
+	   "id": 32,
+	   "image": "../images/투움바치킨.jpg",
+	   "name": "투움바 치킨",
+	   "price": 19900,
+	   "spicy": 2,
+	   "brand": "푸라닭"
+	}
+ ]
